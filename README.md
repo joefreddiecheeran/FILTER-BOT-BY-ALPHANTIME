@@ -71,7 +71,7 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [L LAWLIET](https://telegram.dog/alphantime) for the bot.
 
 
 ## Any bugs or errors or suggestions, report at [ALPHANTIME BOT SUPPORT](https://telegram.dog/alphantimebotsupport)
