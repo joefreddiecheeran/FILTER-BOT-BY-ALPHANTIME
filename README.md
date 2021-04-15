@@ -128,7 +128,7 @@ EG;
 ![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
 
 ## Credits
-
+[L LAWLIET](https://telegram.dog/alphantime) - Creator of the bot
 <p align="left">
   <a href="https://github.com/pyrogram/pyrogram">
     <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
@@ -140,6 +140,6 @@ EG;
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
 </p>
-[L LAWLIET](https://telegram.dog/alphantime) - Creator of the bot
+
 
 
