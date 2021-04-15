@@ -140,6 +140,6 @@ EG;
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
 </p>
-LAWLIET](https://telegram.dog/alphantime) for the bot.
+[L LAWLIET](https://telegram.dog/alphantime) - Creator of the bot
 
 
