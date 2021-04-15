@@ -7,12 +7,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
+  <a href="https://github.com/joefreddiecheeran/FILTER-BOT-BY-ALPHANTIME/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
+  <a href="https://github.com/joefreddiecheeran/FILTER-BOT-BY-ALPHANTIME/fork">
     <img src="https://img.shields.io/github/forks/joefreddiecheeran/FILTER-BOT-BY-ALPHANTIME?label=Fork&style=social">
 
   </a>  
@@ -69,7 +69,7 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+
 
 Thanks to [L LAWLIET](https://telegram.dog/alphantime) for the bot.
 
@@ -140,4 +140,6 @@ EG;
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
 </p>
+LAWLIET](https://telegram.dog/alphantime) for the bot.
+
 
