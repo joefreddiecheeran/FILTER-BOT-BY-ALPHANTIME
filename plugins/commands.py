@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Sorry, U can't use me.😅", callback_data="help_data")
+                    InlineKeyboardButton("Sorry , you can't use me.😅", callback_data="help_data")
                 ]
             ]
         ),
